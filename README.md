@@ -36,7 +36,8 @@ Peform the following command after booting the tablet:
 
 Get modules, firmwares, etc. for Ventana
 -----------
-https://developer.nvidia.com/linux-tegra-rel-16
+* https://developer.nvidia.com/linux-tegra-rel-16
+* Modules should be placed in `/lib/modules3.1.10-15-gabaf62d`
 
 WiFi-firmware
 -----------
