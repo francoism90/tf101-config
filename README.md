@@ -1,6 +1,10 @@
-Copy of kernel https://github.com/jmrohwer/TF101-GNU-kernel (http://forum.xda-developers.com/showthread.php?t=2347581), but for patched for internal eMMC.
+TF101 ArchLinux
+==================
 
-See for more information: http://forum.xda-developers.com/showthread.php?t=1537566
+* Copy of kernel https://github.com/jmrohwer/TF101-GNU-kernel (http://forum.xda-developers.com/showthread.php?t=2347581), but patched for internal eMMC. (boot.img)
+* wheelie and flashing tools created by https://www.androidroot.mobi
+* Using [TrimSlice](http://archlinuxarm.org/platforms/armv7/nvidia/trimslice) image as rootfs
+* For more information: http://forum.xda-developers.com/showthread.php?t=1537566
 
 Root-fs (archlinux.img)
 -----------
