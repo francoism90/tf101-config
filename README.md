@@ -49,3 +49,13 @@ After reboot:
 
     # wifi-menu wlan0
     
+cpupower
+-----------
+
+    $ cat /etc/default/cpupower
+    # Define CPUs governor
+    # valid governors: ondemand, performance, powersave, conservative, userspace.
+    governor='ondemand'
+
+    min_freq="1000MHz"
+    max_freq="1.60GHz"
