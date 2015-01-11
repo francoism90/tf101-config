@@ -34,6 +34,10 @@ Peform the following command after booting the tablet:
 
     # resize2fs /
 
+Get modules, firmwares, etc. for Ventana
+-----------
+https://developer.nvidia.com/linux-tegra-rel-16
+
 WiFi-firmware
 -----------
 * Firmware: http://wireless.kernel.org/en/users/Drivers/brcm80211
