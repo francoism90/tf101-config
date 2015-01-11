@@ -59,3 +59,4 @@ cpupower
 
     min_freq="1000MHz"
     max_freq="1.60GHz"
+    # systemctl enable cpupower
