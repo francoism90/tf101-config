@@ -38,7 +38,8 @@ WiFi-firmware
 -----------
 * Firmware: http://wireless.kernel.org/en/users/Drivers/brcm80211
 * nvram: https://raw.githubusercontent.com/mattlgroff/cwm/master/asus/tf101/prebuilt/etc/nvram_4329.txt
-  
+
+
     # cp /lib/firmware/bcm4329/fw_bcm4329.bin /lib/firmware/bcm4329/fw_bcmdhd.bin
     # depmod -a
     # systemctl reboot
