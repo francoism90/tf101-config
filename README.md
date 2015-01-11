@@ -1,4 +1,4 @@
-Copy of kernel https://github.com/jmrohwer/TF101-GNU-kernel, but on intern eMMC.
+Copy of kernel https://github.com/jmrohwer/TF101-GNU-kernel (http://forum.xda-developers.com/showthread.php?t=2347581), but for patched for internal eMMC.
 See for more information: http://forum.xda-developers.com/showthread.php?t=1537566
 
 TF101 SBK2 Commands:
