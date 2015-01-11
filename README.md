@@ -22,3 +22,10 @@ Flash (TF101 SBK2)
     # ./nvflash -r --download 7 archlinux.img
     # ./nvflash -r --go
 
+Note: You may need to reboot couple of times, before it works correctly.
+
+Reclaim filesystem space
+-----------
+Peform the following command after booting the tablet:
+
+    # resize2fs /
