@@ -15,7 +15,7 @@ Root-fs (archlinux.img)
     # mkdir /mnt/arch
     # mount archlinux.img /mnt/arch
     # bsdtar -xpf ArchLinuxARM-trimslice-latest.tar.gz -C /mnt/arch
-    # echo '/dev/mmcblk0p7 / ext4 defaults,noatime,discard 0 1' > /etc/fstab
+    # echo '/dev/mmcblk0p7 / ext4 defaults,noatime,discard 0 1' > /mnt/arch/etc/fstab
     # umount /mnt/arch
 
 Flash (TF101 SBK2)
