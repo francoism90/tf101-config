@@ -70,7 +70,5 @@ cpupower
 OpenGL
 -----------
     
-    # mv /usr/lib/libEGL.so /usr/lib/libEGL.so.1
-    # mv /usr/lib/libGLESv2.so /usr/lib/libGLESv2.so.2
-    # ln -s /usr/lib/libEGL.so.1 /usr/lib/libEGL.so
-    # ln -s /usr/lib/libGLESv2.so.2 /usr/lib/libGLESv2.so
+    # ln -s /usr/lib/libEGL.so /usr/lib/libEGL.so.1
+    # ln -s /usr/lib/libGLESv2.so /usr/lib/libGLESv2.so.2
